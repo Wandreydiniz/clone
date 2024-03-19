@@ -6,7 +6,7 @@
 <title>Redirecionamento de Página</title>
 </head>
 <body>
-
+ 
 <button id="redirecionar">Ir para outra página</button>
 
 <script>
